@@ -2,6 +2,8 @@
 
 High performance, open source, cross platform CPU/GPU miner.
 
+![xmrigMulti_Logo](https://github.com/UnLuckyLust/xmrigMulti/assets/104845736/e9942c5d-4148-474e-b715-fd24a0ea2d10)
+
 **[Build from source](https://xmrig.com/docs/miner/build)**
 
 ## Donations
